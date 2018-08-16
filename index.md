@@ -1,4 +1,4 @@
-<center><img src="C:\Users\Administrator\Pictures\mt.jpg" width="100![](C:\Users\Administrator\Pictures)">
+<center><img src="world_of_medha_and_terry/mt.jpg" width="100![](C:\Users\Administrator\Pictures)">
 </center>
 
 ## <center> <font face="consolas" color="#9e9d24">Medha and Terry</font> </center> ##
